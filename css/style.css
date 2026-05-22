@@ -48,7 +48,7 @@ main {
     .foto {
         width: 120px;
         height: 120px;
-        background-color: #fafafa;
+        background-color: #01153a;
         border-radius: 50%;
         position: absolute;
         top: 0;
@@ -106,7 +106,7 @@ main {
                 gap: .5rem;
                 justify-content: center;
                 align-items: center;
-                border: 1xp solid#fafafa;
+                border: 1xp solid #fafafafa;
                 border-radius: .5rem;
                 background-color: darkblue;
                 color: #fafafa;
@@ -114,7 +114,7 @@ main {
                 transition: 300ms;
 
                 i {
-                    color: black;
+                    color: rgb(0, 117, 146);
                 }
 
                 &:hover {
